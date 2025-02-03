@@ -1,5 +1,5 @@
 {
-  "name": "translates",
+  "name": "ollama-node",
   "version": "1.0.0",
   "type": "module",
   "main": "index.mjs",
@@ -8,10 +8,19 @@
     "benchmark": "node ./scripts/benchmark.script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "translation",
+    "AI",
+    "express",
+    "ollama",
+    "deepseek",
+    "API",
+    "nodejs",
+    "LLM"
+  ],
   "author": "Santiago Correa Aguirre <santiago.c.a-dev@proton.me>",
   "license": "MIT",
-  "description": "",
+  "description": "An AI-powered translation API using Express, Ollama, and DeepSeek LLM.",
   "dependencies": {
     "connect-timeout": "^1.9.0",
     "cors": "^2.8.5",

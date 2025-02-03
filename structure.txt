@@ -1,0 +1,29 @@
+.
+├── biome.json
+├── docker-compose.yml
+├── LICENSE
+├── node
+│   ├── configurations
+│   │   └── index.mjs
+│   ├── Dockerfile
+│   ├── helpers
+│   │   ├── debug.helper.js
+│   │   ├── numbers.helper.js
+│   │   ├── reponses.helper.js
+│   │   └── strings.helper.js
+│   ├── index.mjs
+│   ├── middlewares
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── scripts
+│   │   └── benchmark.script.js
+│   └── templates
+│       ├── prompts
+│       │   └── translate.md
+│       └── views
+├── ollama
+│   └── Dockerfile
+├── README.md
+└── structure.txt
+
+10 directories, 17 files
